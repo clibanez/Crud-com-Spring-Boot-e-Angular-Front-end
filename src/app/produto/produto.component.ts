@@ -17,7 +17,7 @@ export class ProdutoComponent implements OnInit {
 
   exibirBotao: boolean = false;
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 
