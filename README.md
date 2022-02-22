@@ -1,27 +1,37 @@
-# Teste
+# Consumindo Api com Angular
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/clibanez/Crud-com-Spring-Boot-e-Angular-Front-end/blob/master/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+# Sobre o projeto
 
-## Development server
+A aplicação consiste no consumo de um API em Spring-Boot com Front-end em Angular, onde cadastramos Produtos criando CRUD, onde os dados são coletados e colocados em um banco de dados, e depois são listados no sistema web, bem basico porem direto ao assunto.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Layout WEB
+<img width="960" alt="API-produtos Angula" src="https://user-images.githubusercontent.com/81769139/147020342-79cc634f-22f9-41ce-bcd8-86a32b744cc1.png">
 
-## Code scaffolding
+<img width="960" alt="Sem título" src="https://user-images.githubusercontent.com/81769139/147021015-a7d3bb62-eb95-4055-940c-335edd7d0f59.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Tecnologias utilizadas
 
-## Build
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular
+# Como executar o projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Front end web
 
-## Running unit tests
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# instalar dependências
 
-## Running end-to-end tests
+# executar o projeto
+o projeto na IDE de su apreferência
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Autor
 
-## Further help
+Clibanez Caldas Maranhão
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://www.linkedin.com/in/clibanez-caldas-maranh%C3%A3o-788745209/
+
